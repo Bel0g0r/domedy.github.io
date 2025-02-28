@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/domedy.github.io/static/css/main.5b241660.css",
-    "main.js": "/domedy.github.io/static/js/main.7f13e061.js",
-    "static/js/356.bb4e0fc1.js": "/domedy.github.io/static/js/356.bb4e0fc1.js",
+    "main.js": "/domedy.github.io/static/js/main.27822d18.js",
+    "static/js/786.39024f39.js": "/domedy.github.io/static/js/786.39024f39.js",
     "static/media/MaterialCommunityIcons.ttf": "/domedy.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/domedy.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/domedy.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/domedy.github.io/manifest.json",
     "serve.json": "/domedy.github.io/serve.json",
     "main.5b241660.css.map": "/domedy.github.io/static/css/main.5b241660.css.map",
-    "main.7f13e061.js.map": "/domedy.github.io/static/js/main.7f13e061.js.map",
-    "356.bb4e0fc1.js.map": "/domedy.github.io/static/js/356.bb4e0fc1.js.map"
+    "main.27822d18.js.map": "/domedy.github.io/static/js/main.27822d18.js.map",
+    "786.39024f39.js.map": "/domedy.github.io/static/js/786.39024f39.js.map"
   },
   "entrypoints": [
-    "static/js/356.bb4e0fc1.js",
+    "static/js/786.39024f39.js",
     "static/css/main.5b241660.css",
-    "static/js/main.7f13e061.js"
+    "static/js/main.27822d18.js"
   ]
 }

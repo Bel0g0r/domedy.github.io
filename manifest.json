@@ -1,20 +1,20 @@
 {
-  "background_color": "#ff7300",
+  "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Дом Еды",
-  "short_name": "Дом Еды",
+  "name": "Дом еды",
+  "short_name": "Дом еды",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.domedy.app"
+      "id": "ru.pixelcrm.app.lunchhouse"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.domedy.app",
-      "id": "ru.domedy.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.lunchhouse",
+      "id": "ru.pixelcrm.app.lunchhouse"
     }
   ],
   "prefer_related_applications": true
